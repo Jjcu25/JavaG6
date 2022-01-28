@@ -1,4 +1,5 @@
 Hola Mundo desde git
+>>>>>
 
 git config --global user.name "Su Nombre"
 git config --global user.email "Su Email"
