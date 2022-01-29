@@ -21,5 +21,3 @@ git clone https://github.com/su_nick/su_proyecto.git -> clonar desde la web al p
 git add.
 git commit -m "mensaje de lo realizado"
 git push -u origin master or main
-
-estoy en la rama ejemplo
